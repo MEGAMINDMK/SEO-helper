@@ -1,0 +1,1 @@
+run me after all of the above steps https://www.google.com/ping?sitemap=https://www.someurl.com/sitemap.xml
